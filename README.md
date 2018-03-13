@@ -1,0 +1,2 @@
+# rust-lab
+Learning rusty
