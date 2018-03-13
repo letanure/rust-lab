@@ -33,3 +33,10 @@ $ ./target/debug/hello_cargo
 $ cargo run
 ```
 
+
+## References
+
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/trending/rust
+https://github.com/gamazeps/Useful-Rust-Projects
+https://github.com/rust-lang/rust-by-example
