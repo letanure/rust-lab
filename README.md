@@ -17,4 +17,19 @@ $ ./main
 Hello, world!
 ```
 
+## Hello, Cargo
+
+Cargo is Rust’s build system and package manager,
+
+```
+$ cargo new hello_cargo --bin
+$ cd hello_cargo
+```
+
+```
+$ cargo build
+$ ./target/debug/hello_cargo
+# or
+$ cargo run
+```
 
